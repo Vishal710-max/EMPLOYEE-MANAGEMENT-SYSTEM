@@ -3,7 +3,7 @@ import java.awt.event.*;
 import java.sql.*;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
-/*
+
 public class EmpManagementGUI extends JFrame {
 	// Database components 
 	Connection con;
@@ -180,8 +180,3 @@ public class EmpManagementGUI extends JFrame {
 		new EmpManagementGUI();
 	}
 }
-
-
-
-
-*/
