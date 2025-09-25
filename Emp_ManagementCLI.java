@@ -222,8 +222,9 @@ public class Emp_Management {
 				case 6:
 					System.out.println("\nExited...");
 			}
-		/*	
+		
 		} while (ch != 6);
 	}
 }
-*/
+
+
