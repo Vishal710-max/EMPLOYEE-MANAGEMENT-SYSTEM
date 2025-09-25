@@ -208,7 +208,7 @@ public class Emp_Advanced extends JFrame {
         }
     }
 
-   /* public static void main(String[] args) {
+    public static void main(String[] args) {
         SwingUtilities.invokeLater(Emp_Advanced::new);
     }
-}*/
+}
