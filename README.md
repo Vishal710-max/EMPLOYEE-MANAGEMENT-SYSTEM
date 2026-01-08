@@ -95,12 +95,6 @@ java Emp_ManagementCLI
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of GUI here if needed)*
-
----
-
 ## 🚀 Future Enhancements
 
 * User authentication
